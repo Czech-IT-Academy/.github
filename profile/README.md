@@ -1,4 +1,5 @@
-## Vítejte na GitHubu České IT Akademie! Zde najdete repozitář všech projektů, které probíhají. Každý z Vás dostane oprávnění, na úpravu pouze, projektů na kterých se účastní. Pokud již nemáte svůj tým, kontaktujte svého zadavatele. 
+## Vítejte na GitHubu České IT Akademie! 
+Zde najdete repozitář všech projektů, které probíhají. Každý z Vás dostane oprávnění, na úpravu pouze, projektů na kterých se účastní. Pokud již nemáte svůj tým, kontaktujte svého zadavatele. 
 
 <!--
 
