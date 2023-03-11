@@ -1,4 +1,7 @@
-## Vítejte na GitHubu České IT Akademie! 
+# Vítejte na GitHubu České IT Akademie! 
+
+![academytext 1](https://user-images.githubusercontent.com/43730879/224482521-ba6bbba9-9ff8-41e3-8ee6-4e03fa61ef6d.png)
+
 Zde najdete repozitář všech projektů, které probíhají. Každý z Vás dostane oprávnění, na úpravu pouze, projektů na kterých se účastní. Pokud již nemáte svůj tým, kontaktujte svého zadavatele. 
 
 ## Naming scheme
