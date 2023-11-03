@@ -41,7 +41,7 @@ Následně následuje samotný popis změny v kódu, který by měl být stručn
 
 ## Pull requests (PRs)
 ### Vytváření PR
-Pull Requesty slouží k tomu, aby autor feature mohl odeslat svou práci na review a umožnil tak kontrolu vývojových branchí a zajištění funkčnosti celého projektu. Každý Pull Request vytváří autor feature a v popisu uvádí stručné shrnutí změn, které feature obsahuje, a pokud je to relevantní, také jak se tyto změny projeví v celkové funkčnosti projektu. Na závěr autor přidává team leadera jako reviewera.
+Pull Requesty slouží k tomu, aby autor feature mohl odeslat svou práci na review a umožnil tak kontrolu vývojových branchí a zajištění funkčnosti celého projektu. Každý Pull Request vytváří autor feature a v popisu uvádí stručné shrnutí změn, které feature obsahuje, a pokud je to relevantní, také jak se tyto změny projeví v celkové funkčnosti projektu. Na závěr autor přidává team leadera a project managera pro review.
 ### Schvalování PR a merge
 Každý Pull Request musí projít kontrolou team leadera, který zkontroluje jeho funkčnost i kvalitu kódu. Pokud je Pull Request funkční a kód odpovídá stanoveným standardům, team leader provede merge do žádaného branchi. Pokud není, napíše team leader poznámku k Pull Requestu, kterou autor musí před mergem opravit.
 
