@@ -12,7 +12,7 @@ Tato sekce popisuje pravidla pro pojmenování repozitářů, branchí a commit�
 
 |  | Příklad | Naming konvence 
 |--|--|--|
-| Repozitář | *test_repo, chytrey_app_wrapper* | Jednotlivá slova oddělena '_' (snake case) |
+| Repozitář | *test-repo, chytrey-app-wrapper* | Jednotlivá slova oddělena '-' |
 | Výchozí branch | *main, fix, production* | - |
 | Vývojová branch | *feat/add_login_screen* | Prefix *feat*/ následován názvem feature |
 | Commit | *feat: added login button*, *fix: correct font* | Prefix *feat/fix:*  následován názvem commitu |
